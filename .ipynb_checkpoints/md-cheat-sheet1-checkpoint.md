@@ -20,4 +20,7 @@
 _This will also be italic_  
 **This text will be bold**   
 __This will also be bold__  
-*You **can** combine them*
+*You **can** combine them*  
+
+![Programmer_Photo1](/images/programmer_meme.png)  
+Format: ![Alt Text](url)
